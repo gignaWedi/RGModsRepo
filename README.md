@@ -4,7 +4,7 @@ Collection of Rogue Glitch Mods
 ## Usage
 ### RGMod (recommended)
 - Get [RGMod](https://github.com/gignaWedi/RGMod)
-- Download the code (or clone the repository) and from there just move the desired folder(s) into the RGMod `profile` directory.
+- Clone (or Download by clicking Code > Download as Zip) and from there just move the desired folder(s) into the RGMod `profile` directory.
 
 ### Direct Installation
 - Clone (or Download by clicking Code > Download as Zip) the repo
